@@ -1,0 +1,138 @@
+body{
+    background-color: black;
+    
+    
+}
+
+.Edit{text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+    transition: color 0.3s ease;
+}
+    
+
+h1{
+    color: white;
+    font-family: "Outfit";
+}
+
+h1{
+  font-size: 26px;
+  text-align: center;
+}
+
+a{
+    color: orange;
+    font-family: "Outfit";
+}
+
+h2{
+    color: white;
+    font-size: 26px;
+    text-align: center;
+    font-family: "Outfit";
+}
+
+
+footer{
+    font-family: "Outfit";
+    background-color: #292929;
+}
+
+p{
+    color: gray;
+    text-align: center;
+    font-family: "Outfit";
+    font-family: "Wix Madefor Display", sans-serif;
+}
+
+h6{
+    color: aqua;
+    font-size: 15px;
+    font-family: "Outfit";
+}
+
+.logo{
+    margin: 20px;
+}
+
+header{
+    position: relative;
+}
+
+.propal{
+    position: fixed;
+    right: -30px;
+    top: 0;
+    
+}
+
+ul{
+    color: white;
+    font-family: "Wix Madefor Display", sans-serif;
+    text-align: center;
+}
+
+a, footer{
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.propal:hover{
+   width: 500px;
+   height: 650px;
+   position: absolute;
+
+}
+
+
+.video-container{
+    border: 5px solid #292929;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.Information{
+    font-family: "Wix Madefor Display", sans-serif;
+    font-size: 20px;
+}
+
+table{
+    color: white ;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td{
+    border: 1px solid white;
+    padding: 8px;
+}
+
+th, td {
+    padding: 5px;
+    font-size: 15px;
+}
+
+a:hover{
+   color: #b87e14;
+
+}
+
+.soft{
+    color: orange;
+}
+
+
+.bo{
+    margin: 50px;
+    margin-bottom: 150px;
+}
+
+.info{
+    margin-top: 100px;
+}
